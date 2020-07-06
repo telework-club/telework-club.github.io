@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://telework.club/category/viewpoint/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://telework.club/category/best-practices/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/category/story/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/category/industry-voice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/posts/远程办公，会是现代公司的终局吗？/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://telework.club/posts/what-is-telework-literally/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://telework.club/posts/网络安全标准实践指南/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/posts/自律者得自由/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/posts/is-remote-suitable-for-you/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://telework.club/sponsors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/cases/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://telework.club/sponsors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/success/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/specials/what-is-telework/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://telework.club/specials/what-telework-suit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
